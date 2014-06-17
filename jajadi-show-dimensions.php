@@ -3,7 +3,7 @@
 	Plugin Name: Show Dimensions in Library
 	Plugin URI: http://wordpress.org/extend/plugins/
 	Description: Show Dimensions in Media Library
-	Version: 1.1
+	Version: 1.2
 	Author: Janjaap van Dijk
 	Author URI: http://janjaapvandijk.nl/
 	Last Updated: 2014-04-06
