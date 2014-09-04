@@ -39,7 +39,7 @@ You can find answers to your questions, suggest a feed, or just drop us a line a
 == Changelog ==
 
 = 1.3 =
-* Update: Make column sortable.
+* Update: Make column sortable. Tnx to [Ben Huson](http://profiles.wordpress.org/husobj/)
 
 = 1.2 =
 * Add German, French, Italian, Japanese, Korean, Russian language.
