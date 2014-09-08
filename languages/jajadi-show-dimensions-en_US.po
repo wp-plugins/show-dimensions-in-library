@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Show Dimensions in Library v1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-09-08 09:47+0100\n"
+"PO-Revision-Date: 2014-09-08 10:47+0100\n"
 "Last-Translator: Janjaap van Dijk <info@janjaapvandijk.nl>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,12 +23,6 @@ msgstr ""
 #. translators: plugin header field 'Name'
 #: jajadi-show-dimensions.php:0
 msgid "Show Dimensions in Library"
-msgstr ""
-
-# @ jajadi-show-dimensions
-#. translators: plugin header field 'PluginURI'
-#: jajadi-show-dimensions.php:0
-msgid "http://wordpress.org/extend/plugins/"
 msgstr ""
 
 # @ jajadi-show-dimensions
@@ -58,4 +52,10 @@ msgstr ""
 # @ jajadi-show-dimensions
 #: jajadi-show-dimensions.php:32
 msgid "Dimensions"
+msgstr ""
+
+# @ jajadi-show-dimensions
+#. translators: plugin header field 'PluginURI'
+#: jajadi-show-dimensions.php:0
+msgid "https://wordpress.org/plugins/show-dimensions-in-library/"
 msgstr ""
